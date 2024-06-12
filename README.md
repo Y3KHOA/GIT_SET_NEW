@@ -31,3 +31,13 @@ gấu
 heo
 bò 
 chồn
+
+Con chó
+Con mèo
+Con gà
+Con thỏ
+Con báo
+Con hổ
+Con nai
+Con hươu
+Con khỉ
