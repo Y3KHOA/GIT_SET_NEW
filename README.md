@@ -28,3 +28,6 @@ leo
 hải cẩu
 linh dương
 gấu
+heo
+bò 
+chồn
