@@ -1,3 +1,12 @@
 dog1
 dog2
 dog3
+goose
+duck
+cat
+dog
+chicken
+dog2
+dog3
+dog4
+dog5
