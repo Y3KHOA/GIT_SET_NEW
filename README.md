@@ -4,3 +4,6 @@ dog3
 goose
 duck
 cat
+dog
+chicken
+dog2
