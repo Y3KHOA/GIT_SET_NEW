@@ -25,3 +25,6 @@ chó 3
 dragon
 rabbit
 leo
+hải cẩu
+linh dương
+gấu
